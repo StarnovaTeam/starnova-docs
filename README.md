@@ -20,19 +20,3 @@ These docs may refer to links to other documentional hubs, videos, or other piec
 {% content-ref url="about-us/who-are-we.md" %}
 [who-are-we.md](about-us/who-are-we.md)
 {% endcontent-ref %}
-
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
