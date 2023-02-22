@@ -24,7 +24,9 @@ MOTDs can be done in **Vanilla Minecraft** (meaning no plugins/mods/addons are n
 
 **2)** Once you have your MOTD made (Click "Get your MOTD"), go to your server's [root directory/folder](#user-content-fn-1)[^1] and go into the `server.properties` file
 
+**3)** Paste the text on the `motd=` line after the equal's sign, ex. `motd=Example MOTD!`
 
+**4)** Restart your server and your MOTD should be applied!
 {% endtab %}
 {% endtabs %}
 
