@@ -4,7 +4,7 @@ description: This is how to add an MOTD to your Minecraft Server!
 
 # 📜 Add an MOTD
 
-{% hint style="info" %}
+{% hint style="success" %}
 **Difficulty Level**: 2/10
 {% endhint %}
 
